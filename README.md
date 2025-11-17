@@ -18,11 +18,9 @@ To study mode characteristics of reflex klystron and hence to determine mode num
     
 **Experimental Setup:**
 
-![antenna exp 2](https://github.com/user-attachments/assets/695ad88b-8e24-4676-b196-c73e5c4ea06e)
+<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
 
-
-
-![antenna exp 2 (b)](https://github.com/user-attachments/assets/2c0b7751-6acf-438e-abf6-9605ac86ac98)
+<img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
 
 **Theory**
 
@@ -57,7 +55,12 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+
+![WhatsApp Image 2025-11-16![antenna exp 2](https://github.com/user-attachments/assets/6c36e4a5-1ceb-4f29-ae00-eee614f052ad)
+![antenna exp 2 (b)](https://github.com/user-attachments/assets/7954bf7c-831a-46b5-9c18-c9984f23142e)
+
+
+
 
 **CALCULATIONS:**
 
@@ -78,9 +81,8 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
-   	
-			
+**Result:**
+Hence the mode characteristics of reflex klyston is studied
 			
 			
 			
