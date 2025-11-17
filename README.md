@@ -18,9 +18,11 @@ To study mode characteristics of reflex klystron and hence to determine mode num
     
 **Experimental Setup:**
 
-<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
+![antenna exp 2](https://github.com/user-attachments/assets/695ad88b-8e24-4676-b196-c73e5c4ea06e)
 
-<img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
+
+
+![antenna exp 2 (b)](https://github.com/user-attachments/assets/2c0b7751-6acf-438e-abf6-9605ac86ac98)
 
 **Theory**
 
